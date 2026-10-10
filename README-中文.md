@@ -2,7 +2,7 @@
 
 适用版本：Minecraft 1.20.1、Forge 47.3.0、Java 17。客户端与服务器均需安装同一版本 JAR，无需额外缩放模组。
 
-## 本次补充功能（版本仍为 1.0.1）
+## 本次补充功能
 
 **HUD** 默认位于顶部偏右（屏幕横向 78% 的位置，距顶部 12 个 GUI 像素）。按 **Alt+H** 显示／隐藏，重启后记住选择。也可执行 `/domainhud show`、`/domainhud hide`、`/domainhud toggle`。位置可用 `/domainhud position 0.78 12` 调整，横向取值 0～1。配置位于 `config/domain_expansion-client.toml`。
 
